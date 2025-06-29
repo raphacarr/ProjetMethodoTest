@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 
-Ce projet a été réalisé dans le cadre du cours de Méthodologie de Test en Master 2 Informatique. Il s'agit d'une API REST complète qui agrège des données météorologiques provenant de plusieurs sources externes (OpenWeatherMap, WeatherAPI, Open-Meteo).
+Ce projet a été réalisé dans le cadre du cours de Méthodologie de Test en Master 2 Data Science. Il s'agit d'une API REST complète qui agrège des données météorologiques provenant de plusieurs sources externes (OpenWeatherMap, WeatherAPI, Open-Meteo).
 
 L'objectif principal était d'appliquer les bonnes pratiques de développement, notamment :
 - Le Test-Driven Development (TDD)
