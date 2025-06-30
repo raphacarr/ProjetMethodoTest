@@ -53,7 +53,7 @@ Pour plus de détails sur l'installation et l'utilisation, consultez le [README 
 Ce projet a été réalisé par :
 - Raphaël CARRILHO
 - Noah SUHARD
-- Keenan SCZCEPKOWSKI
+- Keenan SZCZEPKOWSKI
 
 ## Licence
 
